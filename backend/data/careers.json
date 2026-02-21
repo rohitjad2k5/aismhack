@@ -1,0 +1,22 @@
+[
+{"career":"Software Engineer","domain":"technology","traits":["analytical","focus","curiosity"]},
+{"career":"AI Engineer","domain":"technology","traits":["analytical","curiosity"]},
+{"career":"Cybersecurity Analyst","domain":"technology","traits":["analytical","risk"]},
+{"career":"Data Scientist","domain":"technology","traits":["analytical","curiosity"]},
+{"career":"Doctor","domain":"healthcare","traits":["empathy","focus"]},
+{"career":"Psychologist","domain":"healthcare","traits":["empathy","analytical"]},
+{"career":"Surgeon","domain":"healthcare","traits":["focus","risk"]},
+{"career":"Lawyer","domain":"legal","traits":["analytical","social"]},
+{"career":"Judge","domain":"legal","traits":["analytical","leadership"]},
+{"career":"Architect","domain":"design","traits":["creative","analytical"]},
+{"career":"Graphic Designer","domain":"design","traits":["creative"]},
+{"career":"Animator","domain":"design","traits":["creative","curiosity"]},
+{"career":"Entrepreneur","domain":"business","traits":["risk","leadership"]},
+{"career":"Marketing Manager","domain":"business","traits":["social","creative"]},
+{"career":"Investment Banker","domain":"finance","traits":["analytical","risk"]},
+{"career":"Teacher","domain":"education","traits":["social","empathy"]},
+{"career":"Professor","domain":"education","traits":["analytical","curiosity"]},
+{"career":"Scientist","domain":"research","traits":["analytical","curiosity"]},
+{"career":"Pilot","domain":"aviation","traits":["focus","risk"]},
+{"career":"Army Officer","domain":"defense","traits":["leadership","risk"]}
+]

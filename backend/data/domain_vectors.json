@@ -1,0 +1,7 @@
+{
+  "engineering": {"analytical":0.9,"creative":0.4,"focus":0.8},
+  "medicine": {"empathy":0.9,"analytical":0.7,"social":0.6},
+  "design": {"creative":0.95,"curiosity":0.9,"analytical":0.4},
+  "business": {"social":0.8,"risk":0.7,"leadership":0.6},
+  "research": {"analytical":0.95,"curiosity":0.9,"focus":0.85}
+}

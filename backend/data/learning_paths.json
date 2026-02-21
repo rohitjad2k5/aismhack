@@ -1,0 +1,22 @@
+{
+  "engineering": {
+    "subjects": ["Maths","Physics","Computer Science"],
+    "degrees": ["B.Tech","BSc Computer Science"],
+    "skills": ["Programming","Data Structures","Algorithms","System Design"],
+    "projects": ["Build App","Open Source Contribution","AI Project"]
+  },
+
+  "medical": {
+    "subjects": ["Biology","Chemistry"],
+    "degrees": ["MBBS","BSc Nursing"],
+    "skills": ["Diagnosis","Patient Care","Medical Knowledge"],
+    "projects": ["Hospital Internship","Clinical Case Study"]
+  },
+
+  "design": {
+    "subjects": ["Art","Psychology"],
+    "degrees": ["B.Des","Fine Arts"],
+    "skills": ["Creativity","UI Design","Visual Thinking"],
+    "projects": ["Portfolio","Brand Design","UI Case Study"]
+  }
+}

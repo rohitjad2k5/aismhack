@@ -1,0 +1,486 @@
+{
+  "job_data": {
+    "data_science": {
+      "listings": [
+        {
+          "title": "Data Scientist",
+          "company": "Google",
+          "location": "Mountain View, CA",
+          "salary": "$150,000 - $200,000",
+          "required_skills": ["Python", "Machine Learning", "Statistics", "SQL", "TensorFlow"],
+          "experience_years": 2,
+          "seniority_level": "mid-level",
+          "posting_date": "2024-02-15"
+        },
+        {
+          "title": "Junior Data Scientist",
+          "company": "Stripe",
+          "location": "San Francisco, CA",
+          "salary": "$120,000 - $150,000",
+          "required_skills": ["Python", "SQL", "Statistics", "Pandas"],
+          "experience_years": 0,
+          "seniority_level": "entry-level",
+          "posting_date": "2024-02-18"
+        },
+        {
+          "title": "Senior Data Scientist",
+          "company": "Meta",
+          "location": "Menlo Park, CA",
+          "salary": "$200,000 - $280,000",
+          "required_skills": ["Python", "Machine Learning", "Deep Learning", "Spark", "TensorFlow", "PyTorch"],
+          "experience_years": 5,
+          "seniority_level": "senior",
+          "posting_date": "2024-02-10"
+        },
+        {
+          "title": "ML Engineer",
+          "company": "OpenAI",
+          "location": "San Francisco, CA",
+          "salary": "$200,000 - $250,000",
+          "required_skills": ["Python", "Machine Learning", "Deep Learning", "PyTorch", "Reinforcement Learning"],
+          "experience_years": 3,
+          "seniority_level": "mid-level",
+          "posting_date": "2024-02-17"
+        },
+        {
+          "title": "Data Analyst",
+          "company": "Amazon",
+          "location": "Seattle, WA",
+          "salary": "$100,000 - $130,000",
+          "required_skills": ["SQL", "Python", "Tableau", "Statistics", "Excel"],
+          "experience_years": 1,
+          "seniority_level": "entry-level",
+          "posting_date": "2024-02-19"
+        },
+        {
+          "title": "Data Engineer",
+          "company": "Databricks",
+          "location": "San Francisco, CA",
+          "salary": "$160,000 - $220,000",
+          "required_skills": ["Python", "SQL", "Spark", "Hadoop", "ETL"],
+          "experience_years": 2,
+          "seniority_level": "mid-level",
+          "posting_date": "2024-02-16"
+        },
+        {
+          "title": "Analytics Engineer",
+          "company": "Segment",
+          "location": "San Francisco, CA",
+          "salary": "$140,000 - $180,000",
+          "required_skills": ["SQL", "Python", "dbt", "Data Warehouse", "Analytics"],
+          "experience_years": 2,
+          "seniority_level": "mid-level",
+          "posting_date": "2024-02-14"
+        },
+        {
+          "title": "Machine Learning Engineer",
+          "company": "Tesla",
+          "location": "Palo Alto, CA",
+          "salary": "$180,000 - $240,000",
+          "required_skills": ["Python", "Machine Learning", "Deep Learning", "Computer Vision", "PyTorch"],
+          "experience_years": 3,
+          "seniority_level": "mid-level",
+          "posting_date": "2024-02-20"
+        }
+      ],
+      "hiring_trend": "booming",
+      "growth_rate": "35%"
+    },
+    "technology": {
+      "listings": [
+        {
+          "title": "Software Engineer",
+          "company": "Google",
+          "location": "Mountain View, CA",
+          "salary": "$140,000 - $190,000",
+          "required_skills": ["Python", "Java", "C++", "System Design", "Algorithms"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Frontend Engineer",
+          "company": "Meta",
+          "location": "Menlo Park, CA",
+          "salary": "$130,000 - $180,000",
+          "required_skills": ["JavaScript", "React", "TypeScript", "CSS", "Web APIs"],
+          "experience_years": 1,
+          "seniority_level": "junior"
+        },
+        {
+          "title": "Backend Engineer",
+          "company": "Netflix",
+          "location": "Los Gatos, CA",
+          "salary": "$150,000 - $210,000",
+          "required_skills": ["Java", "Scala", "Microservices", "Cloud", "Database"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "DevOps Engineer",
+          "company": "Uber",
+          "location": "San Francisco, CA",
+          "salary": "$160,000 - $220,000",
+          "required_skills": ["Kubernetes", "Docker", "AWS", "Python", "Infrastructure"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Junior Software Engineer",
+          "company": "Stripe",
+          "location": "San Francisco, CA",
+          "salary": "$110,000 - $145,000",
+          "required_skills": ["Java", "Python", "SQL", "Git", "Testing"],
+          "experience_years": 0,
+          "seniority_level": "entry-level"
+        },
+        {
+          "title": "Full Stack Engineer",
+          "company": "Airbnb",
+          "location": "San Francisco, CA",
+          "salary": "$135,000 - $185,000",
+          "required_skills": ["JavaScript", "React", "Node.js", "SQL", "AWS"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Cloud Architect",
+          "company": "AWS",
+          "location": "Seattle, WA",
+          "salary": "$180,000 - $240,000",
+          "required_skills": ["AWS", "Infrastructure", "Terraform", "Architecture", "Security"],
+          "experience_years": 4,
+          "seniority_level": "senior"
+        },
+        {
+          "title": "Mobile Engineer",
+          "company": "Apple",
+          "location": "Cupertino, CA",
+          "salary": "$150,000 - $210,000",
+          "required_skills": ["Swift", "iOS", "Objective-C", "Mobile Architecture", "REST APIs"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Security Engineer",
+          "company": "Microsoft",
+          "location": "Redmond, WA",
+          "salary": "$170,000 - $230,000",
+          "required_skills": ["Security", "Cryptography", "Python", "C++", "Penetration Testing"],
+          "experience_years": 3,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Solutions Architect",
+          "company": "Salesforce",
+          "location": "San Francisco, CA",
+          "salary": "$160,000 - $220,000",
+          "required_skills": ["Architecture", "Cloud", "Salesforce", "Integration", "Leadership"],
+          "experience_years": 3,
+          "seniority_level": "mid-level"
+        }
+      ],
+      "hiring_trend": "growing",
+      "growth_rate": "22%"
+    },
+    "finance": {
+      "listings": [
+        {
+          "title": "Quantitative Analyst",
+          "company": "Goldman Sachs",
+          "location": "New York, NY",
+          "salary": "$150,000 - $250,000",
+          "required_skills": ["Python", "Machine Learning", "Statistics", "Financial Markets", "C++"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Financial Analyst",
+          "company": "JPMorgan",
+          "location": "New York, NY",
+          "salary": "$90,000 - $130,000",
+          "required_skills": ["Excel", "Financial Modeling", "SQL", "Python", "Analysis"],
+          "experience_years": 1,
+          "seniority_level": "junior"
+        },
+        {
+          "title": "Risk Analyst",
+          "company": "Morgan Stanley",
+          "location": "New York, NY",
+          "salary": "$110,000 - $160,000",
+          "required_skills": ["Risk Analysis", "Python", "Statistics", "Financial Markets", "SQL"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Investment Manager",
+          "company": "BlackRock",
+          "location": "New York, NY",
+          "salary": "$140,000 - $200,000",
+          "required_skills": ["Portfolio Management", "Financial Analysis", "Market Knowledge", "Python"],
+          "experience_years": 3,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "FinTech Developer",
+          "company": "Square",
+          "location": "San Francisco, CA",
+          "salary": "$130,000 - $180,000",
+          "required_skills": ["Python", "Java", "Financial Systems", "Blockchain", "APIs"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        }
+      ],
+      "hiring_trend": "stable",
+      "growth_rate": "8%"
+    },
+    "design": {
+      "listings": [
+        {
+          "title": "UX/UI Designer",
+          "company": "Adobe",
+          "location": "San Jose, CA",
+          "salary": "$100,000 - $150,000",
+          "required_skills": ["Figma", "User Research", "Prototyping", "Visual Design", "CSS"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Product Designer",
+          "company": "Airbnb",
+          "location": "San Francisco, CA",
+          "salary": "$120,000 - $170,000",
+          "required_skills": ["Design Thinking", "User Research", "Figma", "Prototyping", "Analytics"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Junior Designer",
+          "company": "Figma",
+          "location": "San Francisco, CA",
+          "salary": "$80,000 - $120,000",
+          "required_skills": ["Figma", "Design Principles", "HTML/CSS", "User Research"],
+          "experience_years": 0,
+          "seniority_level": "entry-level"
+        },
+        {
+          "title": "Graphic Designer",
+          "company": "Instagram",
+          "location": "Menlo Park, CA",
+          "salary": "$90,000 - $140,000",
+          "required_skills": ["Adobe XD", "Brand Design", "Visual Hierarchy", "Motion Design"],
+          "experience_years": 1,
+          "seniority_level": "junior"
+        }
+      ],
+      "hiring_trend": "growing",
+      "growth_rate": "15%"
+    },
+    "healthcare": {
+      "listings": [
+        {
+          "title": "Clinical Data Scientist",
+          "company": "Mayo Clinic",
+          "location": "Rochester, MN",
+          "salary": "$100,000 - $140,000",
+          "required_skills": ["Python", "Statistics", "Medical Knowledge", "SQL", "Healthcare IT"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Health IT Manager",
+          "company": "Cleveland Clinic",
+          "location": "Cleveland, OH",
+          "salary": "$80,000 - $120,000",
+          "required_skills": ["Healthcare Systems", "Project Management", "SQL", "Analytics"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Telemedicine Developer",
+          "company": "Teladoc",
+          "location": "Dallas, TX",
+          "salary": "$110,000 - $160,000",
+          "required_skills": ["Python", "Healthcare Tech", "Security", "AWS", "Integration"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        }
+      ],
+      "hiring_trend": "growing",
+      "growth_rate": "18%"
+    },
+    "education": {
+      "listings": [
+        {
+          "title": "EdTech Developer",
+          "company": "Coursera",
+          "location": "Mountain View, CA",
+          "salary": "$100,000 - $150,000",
+          "required_skills": ["Python", "React", "Educational Technology", "SQL"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        },
+        {
+          "title": "Curriculum Designer",
+          "company": "Khan Academy",
+          "location": "Mountain View, CA",
+          "salary": "$80,000 - $120,000",
+          "required_skills": ["Curriculum Design", "Content Creation", "Learning Science", "Communication"],
+          "experience_years": 2,
+          "seniority_level": "mid-level"
+        }
+      ],
+      "hiring_trend": "stable",
+      "growth_rate": "12%"
+    }
+  },
+
+  "salary_data": {
+    "data_science": {
+      "min": 100000,
+      "max": 250000,
+      "average": 160000,
+      "currency": "USD",
+      "period": "per year",
+      "by_experience": {
+        "entry": "80,000 - 120,000",
+        "mid": "120,000 - 180,000",
+        "senior": "180,000 - 280,000"
+      }
+    },
+    "technology": {
+      "min": 90000,
+      "max": 240000,
+      "average": 150000,
+      "currency": "USD",
+      "period": "per year",
+      "by_experience": {
+        "entry": "70,000 - 110,000",
+        "mid": "110,000 - 170,000",
+        "senior": "170,000 - 250,000"
+      }
+    },
+    "finance": {
+      "min": 100000,
+      "max": 300000,
+      "average": 170000,
+      "currency": "USD",
+      "period": "per year",
+      "by_experience": {
+        "entry": "70,000 - 110,000",
+        "mid": "110,000 - 200,000",
+        "senior": "200,000 - 500,000"
+      }
+    },
+    "design": {
+      "min": 70000,
+      "max": 170000,
+      "average": 110000,
+      "currency": "USD",
+      "period": "per year",
+      "by_experience": {
+        "entry": "50,000 - 80,000",
+        "mid": "80,000 - 130,000",
+        "senior": "130,000 - 200,000"
+      }
+    },
+    "healthcare": {
+      "min": 70000,
+      "max": 160000,
+      "average": 110000,
+      "currency": "USD",
+      "period": "per year",
+      "by_experience": {
+        "entry": "50,000 - 80,000",
+        "mid": "80,000 - 130,000",
+        "senior": "130,000 - 180,000"
+      }
+    },
+    "education": {
+      "min": 60000,
+      "max": 150000,
+      "average": 100000,
+      "currency": "USD",
+      "period": "per year",
+      "by_experience": {
+        "entry": "40,000 - 70,000",
+        "mid": "70,000 - 120,000",
+        "senior": "120,000 - 180,000"
+      }
+    }
+  },
+
+  "skill_demand": {
+    "data_science": {
+      "Python": 95,
+      "Machine Learning": 89,
+      "Statistics": 85,
+      "SQL": 82,
+      "Data Visualization": 78,
+      "TensorFlow": 72,
+      "Pandas": 70,
+      "Deep Learning": 68,
+      "Spark": 65,
+      "Communication": 64
+    },
+    "technology": {
+      "Python": 88,
+      "Java": 85,
+      "JavaScript": 83,
+      "System Design": 80,
+      "Algorithms": 78,
+      "SQL": 75,
+      "Cloud (AWS/GCP/Azure)": 72,
+      "Docker": 68,
+      "React": 67,
+      "Communication": 65
+    },
+    "finance": {
+      "Financial Analysis": 92,
+      "Excel": 88,
+      "Python": 85,
+      "Risk Analysis": 82,
+      "SQL": 78,
+      "Statistical Analysis": 76,
+      "Market Knowledge": 74,
+      "C++": 68,
+      "Communication": 72,
+      "Problem Solving": 70
+    },
+    "design": {
+      "Figma": 92,
+      "User Research": 89,
+      "Visual Design": 87,
+      "Prototyping": 85,
+      "Design Thinking": 82,
+      "Communication": 80,
+      "Product Strategy": 76,
+      "Adobe XD": 72,
+      "CSS": 68,
+      "Accessibility": 65
+    },
+    "healthcare": {
+      "Medical Knowledge": 88,
+      "Python": 82,
+      "Healthcare IT": 78,
+      "Clinical Skills": 75,
+      "Communication": 80,
+      "Empathy": 78,
+      "SQL": 72,
+      "Data Analysis": 68,
+      "Security": 65,
+      "Leadership": 62
+    },
+    "education": {
+      "Teaching": 95,
+      "Communication": 92,
+      "Curriculum Design": 88,
+      "Python": 75,
+      "Subject Expertise": 85,
+      "Mentoring": 82,
+      "HTML/CSS": 68,
+      "Learning Science": 70,
+      "Creativity": 78,
+      "Adaptability": 75
+    }
+  }
+}

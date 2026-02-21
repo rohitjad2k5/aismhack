@@ -1,0 +1,363 @@
+{
+  "domain_relationships": {
+    "technology": {
+      "related": ["research", "business"],
+      "distance": "close"
+    },
+    "data_science": {
+      "related": ["technology", "research", "finance"],
+      "distance": "close"
+    },
+    "finance": {
+      "related": ["business", "data_science", "technology"],
+      "distance": "medium"
+    },
+    "healthcare": {
+      "related": ["research", "education"],
+      "distance": "medium"
+    },
+    "design": {
+      "related": ["business", "technology"],
+      "distance": "medium"
+    },
+    "business": {
+      "related": ["finance", "technology", "design"],
+      "distance": "close"
+    },
+    "education": {
+      "related": ["healthcare", "research"],
+      "distance": "medium"
+    },
+    "research": {
+      "related": ["technology", "healthcare", "education"],
+      "distance": "medium"
+    },
+    "legal": {
+      "related": ["business", "education"],
+      "distance": "far"
+    },
+    "marketing": {
+      "related": ["business", "design", "technology"],
+      "distance": "medium"
+    }
+  },
+  
+  "skill_transfers": {
+    "technology_to_data_science": [
+      "Problem-solving mindset",
+      "Programming foundation",
+      "System thinking",
+      "Debugging and testing skills",
+      "Performance optimization"
+    ],
+    "technology_to_business": [
+      "Project management",
+      "Communication with non-technical",
+      "Understanding requirements",
+      "Stakeholder management",
+      "Technical knowledge advantage"
+    ],
+    "data_science_to_finance": [
+      "Statistical analysis",
+      "Data handling",
+      "Quantitative reasoning",
+      "Pattern recognition",
+      "Risk assessment"
+    ],
+    "finance_to_business": [
+      "Analytical thinking",
+      "Business acumen",
+      "Stakeholder management",
+      "Strategic planning",
+      "ROI understanding"
+    ],
+    "design_to_business": [
+      "User empathy",
+      "Visual communication",
+      "Problem-solving",
+      "Creativity",
+      "Presentation skills"
+    ],
+    "healthcare_to_education": [
+      "Empathy and patience",
+      "Communication clarity",
+      "Domain expertise",
+      "Mentoring ability",
+      "Understanding learner needs"
+    ],
+    "research_to_technology": [
+      "Scientific method",
+      "Critical thinking",
+      "Experimentation",
+      "Publication/documentation",
+      "Novel problem-solving"
+    ],
+    "technology_to_design": [
+      "User understanding",
+      "Technical feasibility thinking",
+      "Iterative mindset",
+      "Problem decomposition",
+      "System perspective"
+    ]
+  },
+  
+  "pivot_paths": {
+    "technology_to_data_science": {
+      "time_to_transition": "6-12 months",
+      "key_gap": "Statistics and ML algorithms",
+      "resources": ["Andrew Ng ML course", "Fast.ai", "Kaggle competitions"],
+      "intermediate_step": "Data analyst role",
+      "success_rate": "high"
+    },
+    "technology_to_business": {
+      "time_to_transition": "12-18 months",
+      "key_gap": "Business acumen and soft skills",
+      "resources": ["MBA programs", "Business courses", "Mentorship"],
+      "intermediate_step": "Product manager or technical lead role",
+      "success_rate": "high"
+    },
+    "data_science_to_finance": {
+      "time_to_transition": "12-18 months",
+      "key_gap": "Finance knowledge and domain experience",
+      "resources": ["Financial engineering courses", "CFA prep", "Trading simulation"],
+      "intermediate_step": "Quantitative analyst role",
+      "success_rate": "medium-high"
+    },
+    "healthcare_to_education": {
+      "time_to_transition": "6-12 months",
+      "key_gap": "Teaching methodology and curriculum design",
+      "resources": ["Teaching certification", "Online course design", "Mentoring"],
+      "intermediate_step": "Course instructor or trainer",
+      "success_rate": "high"
+    },
+    "finance_to_technology": {
+      "time_to_transition": "18-24 months",
+      "key_gap": "Programming and software development",
+      "resources": ["Coding bootcamp", "Self-study", "Build projects"],
+      "intermediate_step": "Engineering finance tools or fintech",
+      "success_rate": "medium"
+    },
+    "design_to_business": {
+      "time_to_transition": "12-18 months",
+      "key_gap": "Business strategy and financial acumen",
+      "resources": ["Business courses", "MBA", "Mentorship"],
+      "intermediate_step": "Design lead or product manager",
+      "success_rate": "medium-high"
+    },
+    "research_to_technology": {
+      "time_to_transition": "6-12 months",
+      "key_gap": "Software engineering practices",
+      "resources": ["CS fundamentals", "Open source contribution", "Industry mentorship"],
+      "intermediate_step": "Research engineer role",
+      "success_rate": "high"
+    }
+  },
+  
+  "lateral_moves": {
+    "technology_variants": [
+      {
+        "title": "Software Engineer",
+        "specializations": ["Frontend", "Backend", "Full-stack", "Mobile"],
+        "transition_effort": "low"
+      },
+      {
+        "title": "Solutions Architect",
+        "specializations": ["Enterprise", "Cloud", "Security"],
+        "transition_effort": "medium"
+      },
+      {
+        "title": "DevOps Engineer",
+        "specializations": ["CI/CD", "Infrastructure", "Cloud"],
+        "transition_effort": "medium"
+      },
+      {
+        "title": "Technical Lead/Manager",
+        "specializations": ["Team lead", "Manager", "Director"],
+        "transition_effort": "medium-high"
+      }
+    ],
+    "data_science_variants": [
+      {
+        "title": "Machine Learning Engineer",
+        "specializations": ["NLP", "Computer Vision", "Recommender Systems"],
+        "transition_effort": "low"
+      },
+      {
+        "title": "Analytics Engineer",
+        "specializations": ["Business Analytics", "Data Engineering", "Analytics"],
+        "transition_effort": "medium"
+      },
+      {
+        "title": "Data Engineer",
+        "specializations": ["ETL", "Data Infrastructure", "Data Pipeline"],
+        "transition_effort": "low-medium"
+      },
+      {
+        "title": "ML Ops Engineer",
+        "specializations": ["Model Deployment", "MLOps", "Infrastructure"],
+        "transition_effort": "medium"
+      }
+    ],
+    "business_variants": [
+      {
+        "title": "Product Manager",
+        "specializations": ["Technical", "Non-tech", "Industry-specific"],
+        "transition_effort": "medium"
+      },
+      {
+        "title": "Business Analyst",
+        "specializations": ["Requirements", "Process", "Data-driven"],
+        "transition_effort": "low"
+      },
+      {
+        "title": "Consultant",
+        "specializations": ["Strategy", "Operations", "Industry"],
+        "transition_effort": "medium-high"
+      },
+      {
+        "title": "Entrepreneur",
+        "specializations": ["Startup", "Scale-up", "Solo"],
+        "transition_effort": "high"
+      }
+    ],
+    "healthcare_variants": [
+      {
+        "title": "Clinical roles",
+        "specializations": ["Doctor", "Nurse", "PT", "OT"],
+        "transition_effort": "high"
+      },
+      {
+        "title": "Research roles",
+        "specializations": ["Clinical research", "Lab research"],
+        "transition_effort": "medium"
+      },
+      {
+        "title": "Healthcare Management",
+        "specializations": ["Hospital admin", "Health policy"],
+        "transition_effort": "medium-high"
+      },
+      {
+        "title": "Medical Technology",
+        "specializations": ["Medical devices", "Health IT"],
+        "transition_effort": "medium"
+      }
+    ]
+  },
+  
+  "career_progression": {
+    "technology": [
+      {
+        "level": "junior",
+        "titles": ["Junior Developer", "Graduate Engineer"],
+        "experience": "0-2 years"
+      },
+      {
+        "level": "mid",
+        "titles": ["Software Engineer", "Senior Developer"],
+        "experience": "2-5 years"
+      },
+      {
+        "level": "senior",
+        "titles": ["Senior Engineer", "Staff Engineer", "Tech Lead"],
+        "experience": "5-10 years"
+      },
+      {
+        "level": "principal",
+        "titles": ["Principal Engineer", "Architect", "VP Engineering"],
+        "experience": "10+ years"
+      }
+    ],
+    "data_science": [
+      {
+        "level": "junior",
+        "titles": ["Junior Data Scientist", "Data Analyst"],
+        "experience": "0-2 years"
+      },
+      {
+        "level": "mid",
+        "titles": ["Data Scientist", "Senior Analyst"],
+        "experience": "2-5 years"
+      },
+      {
+        "level": "senior",
+        "titles": ["Senior Data Scientist", "Staff ML Engineer"],
+        "experience": "5-10 years"
+      },
+      {
+        "level": "principal",
+        "titles": ["Principal Scientist", "Head of ML", "VP Data"],
+        "experience": "10+ years"
+      }
+    ],
+    "business": [
+      {
+        "level": "junior",
+        "titles": ["Associate", "Analyst", "Coordinator"],
+        "experience": "0-2 years"
+      },
+      {
+        "level": "mid",
+        "titles": ["Manager", "Senior Manager"],
+        "experience": "2-5 years"
+      },
+      {
+        "level": "senior",
+        "titles": ["Senior Manager", "Director"],
+        "experience": "5-10 years"
+      },
+      {
+        "level": "principal",
+        "titles": ["VP", "C-level", "CEO"],
+        "experience": "10+ years"
+      }
+    ]
+  },
+  
+  "risk_mitigation": {
+    "low_risk_path": {
+      "approach": "Direct pivot with minor upskilling",
+      "timeframe": "3-6 months",
+      "actions": [
+        "Identify specific skills to polish",
+        "Take 1-2 focused courses",
+        "Build 1-2 portfolio projects",
+        "Network in the new domain",
+        "Apply for positions"
+      ]
+    },
+    "medium_risk_path": {
+      "approach": "Structured transition with intermediate role",
+      "timeframe": "6-12 months",
+      "actions": [
+        "Take structured learning program",
+        "Seek mentorship in new domain",
+        "Build substantial portfolio",
+        "Gain experience through project work",
+        "Plan for career transition"
+      ]
+    },
+    "high_risk_path": {
+      "approach": "Major pivot requires commitment",
+      "timeframe": "12-24 months",
+      "actions": [
+        "Enroll in bootcamp or formal program",
+        "Plan for reduced income during transition",
+        "Build strong professional network",
+        "Volunteer or freelance to gain experience",
+        "Consider bridge roles first"
+      ]
+    },
+    "very_high_risk_path": {
+      "approach": "Career overhaul requires careful planning",
+      "timeframe": "24+ months",
+      "actions": [
+        "Deep reflection on motivation",
+        "Research extensively before committing",
+        "Consider degree program",
+        "Build financial safety net",
+        "Plan staged transition",
+        "Seek career coaching"
+      ]
+    }
+  }
+}

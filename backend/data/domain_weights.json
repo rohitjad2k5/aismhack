@@ -1,0 +1,46 @@
+{
+ "engineering":{
+  "analytical":2,
+  "focus":2,
+  "curiosity":1.5,
+  "practical":1.5
+ },
+
+ "medical":{
+  "empathy":2,
+  "focus":1.5,
+  "analytical":1.5,
+  "social":1
+ },
+
+ "design":{
+  "creative":2,
+  "curiosity":1.5,
+  "practical":1.5
+ },
+
+ "business":{
+  "leadership":2,
+  "risk":1.5,
+  "social":1.5,
+  "analytical":1
+ },
+
+ "research":{
+  "analytical":2,
+  "curiosity":2,
+  "focus":1.5
+ },
+
+ "law":{
+  "analytical":1.5,
+  "leadership":1.5,
+  "social":1.5
+ },
+
+ "entrepreneurship":{
+  "risk":2,
+  "leadership":1.5,
+  "creative":1.5
+ }
+}

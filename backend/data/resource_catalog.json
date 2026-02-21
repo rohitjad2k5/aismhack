@@ -1,0 +1,507 @@
+{
+  "courses": {
+    "ml_fundamentals_andrew_ng": {
+      "title": "Machine Learning Specialization",
+      "provider": "Coursera",
+      "instructor": "Andrew Ng",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "skills": ["analytical", "curiosity", "ML fundamentals", "Python", "statistics"],
+      "price": 39,
+      "hours_to_complete": 70,
+      "difficulty": "beginner",
+      "rating": 4.9,
+      "reviews": 5000,
+      "learning_style": ["video", "hands-on", "projects"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "ML algorithms and math",
+        "Python implementation",
+        "Real-world applications"
+      ],
+      "certificate": true
+    },
+    "deeplearning_fastai": {
+      "title": "Practical Deep Learning for Coders",
+      "provider": "Fast.ai",
+      "instructor": "Jeremy Howard",
+      "url": "https://www.fast.ai/",
+      "skills": ["deep learning", "neural networks", "Python", "AI"],
+      "price": 0,
+      "hours_to_complete": 60,
+      "difficulty": "intermediate",
+      "rating": 4.8,
+      "reviews": 3000,
+      "learning_style": ["video", "hands-on", "projects"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "Deep learning from scratch",
+        "Computer Vision",
+        "NLP basics"
+      ],
+      "certificate": false
+    },
+    "python_basics_udemy": {
+      "title": "Python for Everybody",
+      "provider": "Udemy",
+      "instructor": "Dr. Chuck",
+      "url": "https://www.udemy.com/course/python-for-everybody/",
+      "skills": ["Python", "programming fundamentals", "focus"],
+      "price": 14.99,
+      "hours_to_complete": 40,
+      "difficulty": "beginner",
+      "rating": 4.7,
+      "reviews": 8000,
+      "learning_style": ["video", "hands-on"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "Python syntax",
+        "Data structures",
+        "Functions and modules"
+      ],
+      "certificate": true
+    },
+    "statistics_khan_academy": {
+      "title": "Statistics and Probability",
+      "provider": "Khan Academy",
+      "instructor": "Multiple",
+      "url": "https://www.khanacademy.org/math/statistics-probability",
+      "skills": ["statistics", "analytical", "focus"],
+      "price": 0,
+      "hours_to_complete": 50,
+      "difficulty": "beginner",
+      "rating": 4.8,
+      "reviews": 5000,
+      "learning_style": ["video", "reading"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Probability theory",
+        "Distributions",
+        "Hypothesis testing"
+      ],
+      "certificate": false
+    },
+    "web_development_bootcamp": {
+      "title": "The Complete Web Development Bootcamp",
+      "provider": "Udemy",
+      "instructor": "Angela Yu",
+      "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+      "skills": ["web development", "HTML", "CSS", "JavaScript", "backend"],
+      "price": 14.99,
+      "hours_to_complete": 60,
+      "difficulty": "beginner",
+      "rating": 4.8,
+      "reviews": 10000,
+      "learning_style": ["video", "hands-on", "projects"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "Frontend technologies",
+        "Backend fundamentals",
+        "Full-stack projects"
+      ],
+      "certificate": true
+    },
+    "data_science_ibm": {
+      "title": "Data Science Professional Certificate",
+      "provider": "Coursera (IBM)",
+      "instructor": "IBM",
+      "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+      "skills": ["data science", "Python", "SQL", "data visualization", "analytical"],
+      "price": 39,
+      "hours_to_complete": 100,
+      "difficulty": "beginner",
+      "rating": 4.6,
+      "reviews": 4000,
+      "learning_style": ["video", "hands-on", "projects"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "Data wrangling",
+        "Exploratory analysis",
+        "Machine learning",
+        "Data visualization"
+      ],
+      "certificate": true
+    },
+    "react_scrimba": {
+      "title": "Learn React for Free",
+      "provider": "Scrimba",
+      "instructor": "Bob Ziroll",
+      "url": "https://scrimba.com/learn/learnreact",
+      "skills": ["React", "JavaScript", "frontend development", "web development"],
+      "price": 0,
+      "hours_to_complete": 40,
+      "difficulty": "intermediate",
+      "rating": 4.7,
+      "reviews": 2000,
+      "learning_style": ["video", "interactive", "hands-on"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "React hooks",
+        "Component architecture",
+        "State management"
+      ],
+      "certificate": false
+    },
+    "aws_solutions_architect": {
+      "title": "AWS Certified Solutions Architect",
+      "provider": "Udemy/A Cloud Guru",
+      "instructor": "Multiple",
+      "url": "https://www.udemy.com/course/aws-certified-solutions-architect-professional/",
+      "skills": ["AWS", "cloud computing", "system design", "analytical"],
+      "price": 14.99,
+      "hours_to_complete": 50,
+      "difficulty": "intermediate",
+      "rating": 4.7,
+      "reviews": 3000,
+      "learning_style": ["video", "labs", "practice exams"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "AWS ecosystem",
+        "Architecture patterns",
+        "Cost optimization"
+      ],
+      "certificate": true
+    }
+  },
+
+  "books": {
+    "python_crash_course": {
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "url": "https://nostarch.com/pythoncrashcourse2e",
+      "skills": ["Python", "programming fundamentals", "practical"],
+      "price": 35,
+      "hours_to_complete": 45,
+      "difficulty": "beginner",
+      "rating": 4.7,
+      "reviews": 3000,
+      "learning_style": ["reading", "hands-on"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Python basics",
+        "Games and visualizations",
+        "Web scraping"
+      ]
+    },
+    "deep_learning_goodfellow": {
+      "title": "Deep Learning",
+      "author": "Goodfellow, Bengio, Courville",
+      "url": "https://www.deeplearningbook.org/",
+      "skills": ["deep learning", "neural networks", "analytical", "mathematical"],
+      "price": 70,
+      "hours_to_complete": 200,
+      "difficulty": "advanced",
+      "rating": 4.6,
+      "reviews": 1500,
+      "learning_style": ["reading", "mathematical"],
+      "updated_year": 2016,
+      "key_learnings": [
+        "Mathematical foundations",
+        "Deep architectures",
+        "Advanced applications"
+      ]
+    },
+    "sql_practice": {
+      "title": "SQL Practice Problems",
+      "author": "Pavlo Gutsul",
+      "url": "https://sql-practice.com",
+      "skills": ["SQL", "databases", "analytical"],
+      "price": 19.99,
+      "hours_to_complete": 30,
+      "difficulty": "beginner",
+      "rating": 4.8,
+      "reviews": 500,
+      "learning_style": ["hands-on", "practice"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Query optimization",
+        "Database design",
+        "Complex joins"
+      ]
+    },
+    "clean_code": {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+      "skills": ["programming fundamentals", "focus", "practical"],
+      "price": 40,
+      "hours_to_complete": 25,
+      "difficulty": "intermediate",
+      "rating": 4.8,
+      "reviews": 2000,
+      "learning_style": ["reading"],
+      "updated_year": 2008,
+      "key_learnings": [
+        "Code readability",
+        "Naming conventions",
+        "Error handling"
+      ]
+    },
+    "designpatterns_gang_of_four": {
+      "title": "Design Patterns",
+      "author": "Gang of Four",
+      "url": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612",
+      "skills": ["system design", "analytical", "programming fundamentals"],
+      "price": 45,
+      "hours_to_complete": 40,
+      "difficulty": "advanced",
+      "rating": 4.7,
+      "reviews": 1000,
+      "learning_style": ["reading"],
+      "updated_year": 1994,
+      "key_learnings": [
+        "Common design patterns",
+        "Architectural concepts",
+        "Implementation principles"
+      ]
+    }
+  },
+
+  "videos": {
+    "3blue1brown_linear_algebra": {
+      "title": "Essence of Linear Algebra",
+      "provider": "3Blue1Brown (YouTube)",
+      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+      "skills": ["linear algebra", "mathematical", "analytical", "visual learning"],
+      "price": 0,
+      "hours_to_complete": 10,
+      "difficulty": "beginner",
+      "rating": 4.9,
+      "reviews": 50000,
+      "learning_style": ["video", "visual"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Vectors and matrices",
+        "Transformations",
+        "Eigenvalues"
+      ]
+    },
+    "3blue1brown_calculus": {
+      "title": "Essence of Calculus",
+      "provider": "3Blue1Brown (YouTube)",
+      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+      "skills": ["calculus", "mathematical", "analytical"],
+      "price": 0,
+      "hours_to_complete": 9,
+      "difficulty": "beginner",
+      "rating": 4.9,
+      "reviews": 40000,
+      "learning_style": ["video", "visual"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Derivatives",
+        "Integrals",
+        "Chain rule"
+      ]
+    },
+    "tech_with_tim_python": {
+      "title": "Python for Beginners (Playlist)",
+      "provider": "Tech With Tim (YouTube)",
+      "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm",
+      "skills": ["Python", "programming fundamentals", "focus"],
+      "price": 0,
+      "hours_to_complete": 25,
+      "difficulty": "beginner",
+      "rating": 4.6,
+      "reviews": 10000,
+      "learning_style": ["video", "hands-on"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Python basics",
+        "OOP concepts",
+        "Project setup"
+      ]
+    },
+    "statquest_statistics": {
+      "title": "Statistics Fundamentals",
+      "provider": "StatQuest with Josh Starmer (YouTube)",
+      "url": "https://www.youtube.com/c/joshstarmer",
+      "skills": ["statistics", "analytical", "visual learning"],
+      "price": 0,
+      "hours_to_complete": 20,
+      "difficulty": "beginner",
+      "rating": 4.8,
+      "reviews": 50000,
+      "learning_style": ["video", "visual"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "Statistical concepts",
+        "Distributions",
+        "Hypothesis testing"
+      ]
+    },
+    "nextjs_crash_course": {
+      "title": "Next.js Crash Course",
+      "provider": "Traversy Media (YouTube)",
+      "url": "https://www.youtube.com/watch?v=wm5gMKuwSYk",
+      "skills": ["Next.js", "React", "web development", "JavaScript"],
+      "price": 0,
+      "hours_to_complete": 5,
+      "difficulty": "intermediate",
+      "rating": 4.7,
+      "reviews": 5000,
+      "learning_style": ["video", "hands-on"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "Next.js frameworks",
+        "File-based routing",
+        "API routes"
+      ]
+    }
+  },
+
+  "certifications": {
+    "aws_solutions_architect_cert": {
+      "title": "AWS Certified Solutions Architect - Professional",
+      "provider": "Amazon AWS",
+      "url": "https://aws.amazon.com/certification/certified-solutions-architect-professional/",
+      "skills": ["AWS", "cloud computing", "system design"],
+      "price": 300,
+      "hours_to_complete": 60,
+      "difficulty": "advanced",
+      "rating": 4.7,
+      "reviews": 2000,
+      "learning_style": ["practice exams", "labs", "video"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "AWS services",
+        "Architecture design",
+        "Cost optimization"
+      ],
+      "validity_years": 3,
+      "job_relevance": "high"
+    },
+    "gcp_data_engineer_cert": {
+      "title": "Google Cloud Certified - Data Engineer",
+      "provider": "Google Cloud",
+      "url": "https://cloud.google.com/certification/data-engineer",
+      "skills": ["GCP", "data engineering", "analytical"],
+      "price": 200,
+      "hours_to_complete": 50,
+      "difficulty": "intermediate",
+      "rating": 4.6,
+      "reviews": 1000,
+      "learning_style": ["labs", "video", "practice exams"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "BigQuery",
+        "Dataflow",
+        "Data pipelines"
+      ],
+      "validity_years": 3,
+      "job_relevance": "high"
+    },
+    "python_professional_cert": {
+      "title": "Python Professional Certificate",
+      "provider": "DataCamp Certification",
+      "url": "https://www.datacamp.com/certificate/associate-data-analyst-python",
+      "skills": ["Python", "data analysis", "analytical"],
+      "price": 0,
+      "hours_to_complete": 40,
+      "difficulty": "beginner",
+      "rating": 4.5,
+      "reviews": 500,
+      "learning_style": ["hands-on", "projects"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "Python data libraries",
+        "Data analysis",
+        "Visualization"
+      ],
+      "validity_years": 2,
+      "job_relevance": "medium"
+    }
+  },
+
+  "projects": {
+    "iris_classification": {
+      "title": "Iris Classification Project",
+      "provider": "Kaggle",
+      "url": "https://www.kaggle.com/datasets/uciml/iris",
+      "skills": ["machine learning", "Python", "data science", "practical"],
+      "price": 0,
+      "hours_to_complete": 8,
+      "difficulty": "beginner",
+      "rating": 4.8,
+      "reviews": 3000,
+      "learning_style": ["hands-on", "practical"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Pandas for data cleaning",
+        "Scikit-learn for ML",
+        "Model evaluation"
+      ]
+    },
+    "titanic_survival": {
+      "title": "Titanic Survival Prediction",
+      "provider": "Kaggle",
+      "url": "https://www.kaggle.com/c/titanic",
+      "skills": ["machine learning", "data science", "data analysis", "Python"],
+      "price": 0,
+      "hours_to_complete": 12,
+      "difficulty": "beginner",
+      "rating": 4.7,
+      "reviews": 5000,
+      "learning_style": ["hands-on", "practical"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Feature engineering",
+        "Model comparison",
+        "Competition experience"
+      ]
+    },
+    "web_portfolio": {
+      "title": "Personal Portfolio Website",
+      "provider": "Self-guided project",
+      "url": "https://www.freecodecamp.org/news/how-to-create-a-portofolio-site/",
+      "skills": ["web development", "HTML", "CSS", "JavaScript", "practical"],
+      "price": 0,
+      "hours_to_complete": 20,
+      "difficulty": "intermediate",
+      "rating": 4.6,
+      "reviews": 1000,
+      "learning_style": ["hands-on", "practical"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "Responsive design",
+        "Web best practices",
+        "Portfolio showcase"
+      ]
+    },
+    "weather_app": {
+      "title": "Weather Web Application",
+      "provider": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-weather-app/",
+      "skills": ["JavaScript", "APIs", "web development", "practical"],
+      "price": 0,
+      "hours_to_complete": 10,
+      "difficulty": "intermediate",
+      "rating": 4.7,
+      "reviews": 2000,
+      "learning_style": ["hands-on", "practical"],
+      "updated_year": 2023,
+      "key_learnings": [
+        "API integration",
+        "DOM manipulation",
+        "Async programming"
+      ]
+    },
+    "machine_learning_pipeline": {
+      "title": "Complete ML Pipeline Project",
+      "provider": "Kaggle / Self-guided",
+      "url": "https://www.kaggle.com/code",
+      "skills": ["machine learning", "data science", "Python", "practical"],
+      "price": 0,
+      "hours_to_complete": 30,
+      "difficulty": "advanced",
+      "rating": 4.8,
+      "reviews": 1000,
+      "learning_style": ["hands-on", "practical"],
+      "updated_year": 2024,
+      "key_learnings": [
+        "Data pipeline creation",
+        "Model deployment",
+        "Production considerations"
+      ]
+    }
+  }
+}
